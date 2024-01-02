@@ -1,31 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.89545453.css",
-    "main.js": "/static/js/main.1a188d47.js",
-    "static/js/787.28a40855.chunk.js": "/static/js/787.28a40855.chunk.js",
+    "main.css": "/static/css/main.f04f7011.css",
+    "main.js": "/static/js/main.c16cf30e.js",
     "static/media/cover2.png": "/static/media/cover2.1e385efb0114e08b7ee5.png",
-    "static/media/amricano.png": "/static/media/amricano.4b972a96943973319c03.png",
-    "static/media/espresso double.png": "/static/media/espresso double.037aacd4acdd774afe49.png",
-    "static/media/affogatoo.png": "/static/media/affogatoo.275ac2b8a1105bef0395.png",
-    "static/media/french hazelnut.png": "/static/media/french hazelnut.2c98e52f4abb946e34fd.png",
-    "static/media/hot chocolate.png": "/static/media/hot chocolate.7e33b222f387327745a6.png",
-    "static/media/chon banneh.png": "/static/media/chon banneh.e029bd3d8007f083444f.png",
-    "static/media/latte tea.png": "/static/media/latte tea.a23eaebc0ec465794ee3.png",
-    "static/media/mocha.png": "/static/media/mocha.ae4f4b14048b347d4a79.png",
-    "static/media/sahlab.png": "/static/media/sahlab.78f68ad4915cd43c51a4.png",
-    "static/media/macchiato.png": "/static/media/macchiato.67f4285f116327f1bab6.png",
-    "static/media/latte.png": "/static/media/latte.3d4b1fe1dc1fa4a134f0.png",
-    "static/media/italian hot chocolate.png": "/static/media/italian hot chocolate.5b01158b46d28a582eed.png",
-    "static/media/hot chocolate marshmallow.png": "/static/media/hot chocolate marshmallow.4348e74d330a496e6cce.png",
-    "static/media/1.jpeg": "/static/media/1.b47abf19159d46c781a3.jpeg",
-    "static/media/toggler.svg": "/static/media/toggler.4c5ae7db7f3a3eb1ed83b169741996e0.svg",
     "index.html": "/index.html",
-    "main.89545453.css.map": "/static/css/main.89545453.css.map",
-    "main.1a188d47.js.map": "/static/js/main.1a188d47.js.map",
-    "787.28a40855.chunk.js.map": "/static/js/787.28a40855.chunk.js.map"
+    "main.f04f7011.css.map": "/static/css/main.f04f7011.css.map",
+    "main.c16cf30e.js.map": "/static/js/main.c16cf30e.js.map"
   },
   "entrypoints": [
-    "static/css/main.89545453.css",
-    "static/js/main.1a188d47.js"
+    "static/css/main.f04f7011.css",
+    "static/js/main.c16cf30e.js"
   ]
 }
