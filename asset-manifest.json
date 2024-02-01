@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.951396f4.css",
-    "main.js": "/static/js/main.0b321262.js",
+    "main.css": "/static/css/main.90e510b6.css",
+    "main.js": "/static/js/main.b4ef6d23.js",
     "static/media/cover.png": "/static/media/cover.3e66df005eb575a0d9a3.png",
+    "static/media/lastoria.png": "/static/media/lastoria.21d303d23e2771d17a04.png",
     "static/media/background.jpg": "/static/media/background.2902b103c2dd0b6feb83.jpg",
     "index.html": "/index.html",
-    "main.951396f4.css.map": "/static/css/main.951396f4.css.map",
-    "main.0b321262.js.map": "/static/js/main.0b321262.js.map"
+    "main.90e510b6.css.map": "/static/css/main.90e510b6.css.map",
+    "main.b4ef6d23.js.map": "/static/js/main.b4ef6d23.js.map"
   },
   "entrypoints": [
-    "static/css/main.951396f4.css",
-    "static/js/main.0b321262.js"
+    "static/css/main.90e510b6.css",
+    "static/js/main.b4ef6d23.js"
   ]
 }
