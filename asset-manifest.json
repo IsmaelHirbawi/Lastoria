@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c830dbb2.css",
-    "main.js": "/static/js/main.333ae6aa.js",
-    "static/media/ramadanPost.jpg": "/static/media/ramadanPost.20fc1e0d8138b3fb06f8.jpg",
+    "main.css": "/static/css/main.52ca9376.css",
+    "main.js": "/static/js/main.48bbc7dc.js",
+    "static/media/cover.png": "/static/media/cover.3e66df005eb575a0d9a3.png",
     "static/media/lastoria.png": "/static/media/lastoria.21d303d23e2771d17a04.png",
     "static/media/background.jpg": "/static/media/background.2902b103c2dd0b6feb83.jpg",
-    "static/media/ramadan.jpg": "/static/media/ramadan.6738e4f6f2f164898e5f.jpg",
     "index.html": "/index.html",
-    "main.c830dbb2.css.map": "/static/css/main.c830dbb2.css.map",
-    "main.333ae6aa.js.map": "/static/js/main.333ae6aa.js.map"
+    "main.52ca9376.css.map": "/static/css/main.52ca9376.css.map",
+    "main.48bbc7dc.js.map": "/static/js/main.48bbc7dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.c830dbb2.css",
-    "static/js/main.333ae6aa.js"
+    "static/css/main.52ca9376.css",
+    "static/js/main.48bbc7dc.js"
   ]
 }
