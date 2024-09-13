@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cf70ef9b.css",
-    "main.js": "/static/js/main.8f8c095c.js",
+    "main.js": "/static/js/main.0290d397.js",
     "static/media/cover.png": "/static/media/cover.3e66df005eb575a0d9a3.png",
     "static/media/lastoria.png": "/static/media/lastoria.21d303d23e2771d17a04.png",
     "static/media/background.jpg": "/static/media/background.2902b103c2dd0b6feb83.jpg",
@@ -9,10 +9,10 @@
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/index.html",
     "main.cf70ef9b.css.map": "/static/css/main.cf70ef9b.css.map",
-    "main.8f8c095c.js.map": "/static/js/main.8f8c095c.js.map"
+    "main.0290d397.js.map": "/static/js/main.0290d397.js.map"
   },
   "entrypoints": [
     "static/css/main.cf70ef9b.css",
-    "static/js/main.8f8c095c.js"
+    "static/js/main.0290d397.js"
   ]
 }
