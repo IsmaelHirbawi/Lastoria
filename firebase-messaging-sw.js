@@ -1,6 +1,6 @@
 // firebase-messaging-sw.js
-importScripts('https://www.gstatic.com/firebasejs/9.15.0/firebase-app-compat.js');
-importScripts('https://www.gstatic.com/firebasejs/9.15.0/firebase-messaging-compat.js');
+importScripts('https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js');
+importScripts('https://www.gstatic.com/firebasejs/9.0.0/firebase-messaging.js');
 
 // Initialize the Firebase app in the service worker by passing in your firebaseConfig object
 const firebaseConfig = {
@@ -14,18 +14,15 @@ const firebaseConfig = {
 
 firebase.initializeApp(firebaseConfig);
 
-// Retrieve an instance of Firebase Messaging so that it can handle background messages
+// Retrieve Firebase Messaging object
 const messaging = firebase.messaging();
 
-// Background message handler
 messaging.onBackgroundMessage((payload) => {
-  console.log('[firebase-messaging-sw.js] Received background message ', payload);
-
-  // Customize notification here
+  console.log('Received background message ', payload);
   const notificationTitle = payload.notification.title;
   const notificationOptions = {
     body: payload.notification.body,
-    icon: '/firebase-logo.png' // You can change the icon path as per your requirement
+    icon: payload.notification.icon,
   };
 
   self.registration.showNotification(notificationTitle, notificationOptions);
